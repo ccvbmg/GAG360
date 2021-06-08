@@ -97,6 +97,12 @@ var APP_DATA = {
           "pitch": -0.01388945730680291,
           "rotation": 0,
           "target": "0-haupteingang"
+        },
+        {
+          "yaw": 1.9471290578100238,
+          "pitch": -0.027264829866854967,
+          "rotation": 0,
+          "target": "5-innerer-schulhof-1"
         }
       ],
       "infoHotspots": []
@@ -141,6 +147,12 @@ var APP_DATA = {
           "pitch": 0.15751610023057339,
           "rotation": 0,
           "target": "3-teichbecken"
+        },
+        {
+          "yaw": 1.963989404941687,
+          "pitch": 0.009733996267890177,
+          "rotation": 0,
+          "target": "4-auenbereich-spielgerte"
         }
       ],
       "infoHotspots": [
@@ -231,6 +243,12 @@ var APP_DATA = {
           "pitch": 0.011782218343384443,
           "rotation": 0,
           "target": "6-innerer-schulhof-2"
+        },
+        {
+          "yaw": -0.7008938084028244,
+          "pitch": 0.018972582131629778,
+          "rotation": 0,
+          "target": "2-sportgelnde"
         }
       ],
       "infoHotspots": [
@@ -270,7 +288,20 @@ var APP_DATA = {
         "pitch": 0,
         "fov": 1.6208872508693097
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -1.6767841742010603,
+          "pitch": -0.4455861021603269,
+          "rotation": 0,
+          "target": "9-informatikcodeclub"
+        },
+        {
+          "yaw": 0.307634214807619,
+          "pitch": -0.03466021578607581,
+          "rotation": 0,
+          "target": "1-balderichstr"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -313,6 +344,12 @@ var APP_DATA = {
           "pitch": -0.0072124123079362334,
           "rotation": 0,
           "target": "1-balderichstr"
+        },
+        {
+          "yaw": -2.32603195782913,
+          "pitch": -0.3032507909423874,
+          "rotation": 0,
+          "target": "10-ipad-raum"
         }
       ],
       "infoHotspots": [
