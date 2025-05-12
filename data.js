@@ -361,7 +361,7 @@ var APP_DATA = {
           "yaw": 1.0708625282044935,
           "pitch": -0.05311346847964593,
           "title": "Montessori-Schule",
-          "text": "Unseren inneren Schulhof teilen wir uns mit der angrenzen Montessori-Schule."
+          "text": "Unseren inneren Schulhof teilen wir uns mit der angrenzenden Montessori-Schule."
         }
       ]
     },
@@ -730,7 +730,7 @@ var APP_DATA = {
           "yaw": -2.2323277717143384,
           "pitch": -0.05344814114083185,
           "title": "Informatik/CodeClubMG",
-          "text": "Einer unserer beiden Informatikräume. Dieser Ort ist das Herz unsrer Informatik und des \"CodeClubMG\", der sich gerne als eine große Familie mit über 120 Teilnehmerinnen und Teilnehmern bezeichnet. Der \"CodeClubMG\" trifft sich hier jeden Freitag zum \"coden\" und, um die gemeinsame Zeit zu genießen.<div>Unsere Informatikräume verfügen über Leistungsstarke PCs, die allen Anwendungen gerecht werden. Daneben halten wir 150 Notebooks bereit. Falls es im Rahmen der Spieleentwicklung, die bei uns auf Basis der neuesten Unreal-Engine bewerkstelligt wird, einmal mehr Leistung sein darf, verfügen wir über 10 PCs mit höchster Prozessor- und Grafikleistung. So lassen sich die programmierten Games direkt ausprobieren.</div><div>VR? Haben wir in Form eine HTC Valve Index ebenfalls.</div>"
+          "text": "Einer unserer beiden Informatikräume. Dieser Ort ist das Herz unserer Informatik und des \"CodeClubMG\", der sich gerne als eine große Familie mit über 120 Teilnehmerinnen und Teilnehmern bezeichnet. Der \"CodeClubMG\" trifft sich hier jeden Freitag zum \"coden\" und, um die gemeinsame Zeit zu genießen.<div>Unsere Informatikräume verfügen über Leistungsstarke PCs, die allen Anwendungen gerecht werden. Daneben halten wir 150 Notebooks bereit. Falls es im Rahmen der Spieleentwicklung, die bei uns auf Basis der neuesten Unreal-Engine bewerkstelligt wird, einmal mehr Leistung sein darf, verfügen wir über 10 PCs mit höchster Prozessor- und Grafikleistung. So lassen sich die programmierten Games direkt ausprobieren.</div><div>VR? Haben wir in Form eine HTC Valve Index ebenfalls.</div>"
         }
       ]
     },
