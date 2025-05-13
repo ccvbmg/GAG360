@@ -224,7 +224,7 @@ var APP_DATA = {
           "target": "2-sportgelnde"
         },
 		{
-          "yaw": 0.03599749145271858,
+          "yaw": -0.1,
           "pitch": -0.009614100361797995,
           "rotation": 6.283185307179586,
           "target": "7-foyer"
