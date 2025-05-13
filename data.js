@@ -222,6 +222,12 @@ var APP_DATA = {
           "pitch": 0.055099684957209405,
           "rotation": 0,
           "target": "2-sportgelnde"
+        },
+		{
+          "yaw": 0.03599749145271858,
+          "pitch": -0.009614100361797995,
+          "rotation": 6.283185307179586,
+          "target": "7-foyer"
         }
       ],
       "infoHotspots": [
